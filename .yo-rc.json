@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "taxitrader",
+    "packageName": "com.ozmon.taxitrader",
+    "packageFolder": "com/ozmon/taxitrader",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "sql",
+    "devDatabaseType": "postgresql",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "enableTranslation": true,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "3a30edc9431e46c67897cd6c7ba7fafed1ce7787",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}

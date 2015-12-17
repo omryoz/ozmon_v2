@@ -1,0 +1,21 @@
+{
+    "taxitraderApp": {
+        "car_brand" : {
+            "home": {
+                "title": "Car_brands",
+                "createLabel": "Create a new Car_brand",
+                "createOrEditLabel": "Create or edit a Car_brand"
+            },
+            "created": "A new Car_brand is created with identifier {{ param }}",
+            "updated": "A Car_brand is updated with identifier {{ param }}",
+            "deleted": "A Car_brand is deleted with identifier {{ param }}",
+            "delete": {
+                "question": "Are you sure you want to delete Car_brand {{ id }}?"
+            },
+            "detail": {
+                "title": "Car_brand"
+            },
+            "name": "Name"
+        }
+    }
+}

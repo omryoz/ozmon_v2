@@ -1,0 +1,23 @@
+{
+    "taxitraderApp": {
+        "car_model" : {
+            "home": {
+                "title": "Car_models",
+                "createLabel": "Créer un nouveau Car_model",
+                "createOrEditLabel": "Créer ou éditer un Car_model"
+            },
+            "created": "Un nouveau Car_model a été créé avec l'identifiant {{ param }}",
+            "updated": "Le Car_model avec l'identifiant {{ param }} a été mis à jour",
+            "deleted": "Le Car_model avec l'identifiant {{ param }} a été supprimé",
+            "delete": {
+                "question": "Etes-vous certain de vouloir supprimer le Car_model {{ id }} ?"
+            },
+            "detail": {
+                "title": "Car_model"
+            },
+            "name": "Name",
+            "brand_models": "Brand_models"
+        }
+    }
+}
+
